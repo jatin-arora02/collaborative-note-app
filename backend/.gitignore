@@ -17,3 +17,6 @@ data/
 
 # Temporary files
 *.DS_Store
+
+/config/firebaseServiceAccount.json
+
