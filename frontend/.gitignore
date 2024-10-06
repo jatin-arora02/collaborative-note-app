@@ -1,0 +1,17 @@
+# Node modules directory (contains installed dependencies)
+node_modules/
+
+# Build directory (generated when you build the project)
+build/
+
+# Environment variables file (contains sensitive information)
+.env
+
+# Log files
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Temporary files
+*.DS_Store
+*.log

@@ -1,0 +1,24 @@
+# Node modules directory (contains installed dependencies)
+node_modules/
+
+# Environment variables file (contains sensitive information)
+.env
+
+# Log files
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Local development logs
+logs/
+*.log
+
+# Directory for your database (if you're using a local database)
+data/
+
+# Optional: Ignore database or config files if they contain sensitive info
+config/
+*.json
+
+# Temporary files
+*.DS_Store
