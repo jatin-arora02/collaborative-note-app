@@ -2,6 +2,7 @@
 node_modules/
 
 # Environment variables file (contains sensitive information)
+.env
 
 # Log files
 npm-debug.log*
@@ -17,6 +18,3 @@ data/
 
 # Temporary files
 *.DS_Store
-
-/config/firebaseServiceAccount.json
-
